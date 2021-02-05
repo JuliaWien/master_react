@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div
+  class="spielbrett"
+>
+  <h1>
+    Willkommen zu MasterMind
+  </h1>
+  <table>
+    <thead>
+      <tr>
+        <th>
+          <div>
+            <button
+              class="myPin Pin--red"
+            />
+          </div>
+        </th>
+        <th>
+          <div>
+            <button
+              class="myPin Pin--red"
+            />
+          </div>
+        </th>
+        <th>
+          <div>
+            <button
+              class="myPin Pin--red"
+            />
+          </div>
+        </th>
+        <th>
+          <div>
+            <button
+              class="myPin Pin--red"
+            />
+          </div>
+        </th>
+        <th>
+          <button
+            class="myGoButton"
+          >
+            GO!
+          </button>
+        </th>
+      </tr>
+    </thead>
+  </table>
+  <div>
+    <h1
+      style="padding: 20px;"
+    >
+      Gut überlegen!
+    </h1>
+  </div>
+  <div>
+    <table>
+      <tbody />
+    </table>
+  </div>
+</div>
+`;
